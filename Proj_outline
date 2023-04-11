@@ -5,8 +5,25 @@
 3. clean the data and infer the variable wich are indespensable for the futher analysis 
 4. Use ML to predict the needs of charging infrastructure( ML tools to be reviewed in upcomming days 
 
-### what we target ??
+## what we target ??
 
-we hope to 
+We hope to develop a ML model which predicts the highest number of charging stations that are needed per city considering the EV users demand 
 
+## Dataset and features
 
+different features will be engineered and extract from below raw dataset 
+1. Population 
+2. Median Income per household 
+3. Education level 
+4. Electrical Vehicle sales( available data from....)
+5. Elecrical vehicle consumption rate in Kw/h 
+6. charging stations infustructure in past
+7. EV charging station forecasting 
+
+## Limitations and challenges 
+
+1.
+2.
+3.
+
+## 
