@@ -1,0 +1,5 @@
+Charge point location data for electric vehicles: https://transportdata.be/dataset/overzicht-laadpunten
+All vehicles: https://transportdata.be/dataset/available-vehicles/resource/d14fcad9-19f4-4e5a-80dd-3d815964b297?inner_span=True
+openapi: https://openapi.battmobiel.be/swagger/ui/index#/Vehicles
+
+important links: https://transportdata.be/dataset?tags=Car-sharing&license_id=notspecified
