@@ -3,3 +3,4 @@ All vehicles: https://transportdata.be/dataset/available-vehicles/resource/d14fc
 openapi: https://openapi.battmobiel.be/swagger/ui/index#/Vehicles
 
 important links: https://transportdata.be/dataset?tags=Car-sharing&license_id=notspecified
+https://electrify.brussels/en/where-to-charge/list
