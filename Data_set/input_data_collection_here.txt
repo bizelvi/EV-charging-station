@@ -1,0 +1,5 @@
+20th april 
+==========
+
+- Population dataset per municipalities will be found in poputation files by aggregating on CD_REFNIS, TX_DESCR_FR and sum up on Ms_Population 
+- age distribution maybe considered by considering the average of column age
