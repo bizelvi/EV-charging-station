@@ -1,0 +1,563 @@
+CD_REFNIS,TX_DESCR_FR,CD_PROV_REFNIS,TX_PROV_DESCR_FR,MS_POPULATION
+11001,Aartselaar,10000.0,Province d’Anvers,14610
+11002,Anvers,10000.0,Province d’Anvers,530630
+11004,Boechout,10000.0,Province d’Anvers,13733
+11005,Boom,10000.0,Province d’Anvers,18832
+11007,Borsbeek,10000.0,Province d’Anvers,11226
+11008,Brasschaat,10000.0,Province d’Anvers,38237
+11009,Brecht,10000.0,Province d’Anvers,30143
+11013,Edegem,10000.0,Province d’Anvers,22386
+11016,Essen,10000.0,Province d’Anvers,19341
+11018,Hemiksem,10000.0,Province d’Anvers,11812
+11021,Hove (Anvers),10000.0,Province d’Anvers,8311
+11022,Kalmthout,10000.0,Province d’Anvers,19179
+11023,Kapellen (Anvers),10000.0,Province d’Anvers,27442
+11024,Kontich,10000.0,Province d’Anvers,21340
+11025,Lint,10000.0,Province d’Anvers,8553
+11029,Mortsel,10000.0,Province d’Anvers,26189
+11030,Niel,10000.0,Province d’Anvers,10595
+11035,Ranst,10000.0,Province d’Anvers,19366
+11037,Rumst,10000.0,Province d’Anvers,15254
+11038,Schelle,10000.0,Province d’Anvers,8692
+11039,Schilde,10000.0,Province d’Anvers,20031
+11040,Schoten,10000.0,Province d’Anvers,34157
+11044,Stabroek,10000.0,Province d’Anvers,18782
+11050,Wijnegem,10000.0,Province d’Anvers,10244
+11052,Wommelgem,10000.0,Province d’Anvers,13181
+11053,Wuustwezel,10000.0,Province d’Anvers,21523
+11054,Zandhoven,10000.0,Province d’Anvers,13172
+11055,Zoersel,10000.0,Province d’Anvers,22317
+11056,Zwijndrecht,10000.0,Province d’Anvers,19243
+11057,Malle,10000.0,Province d’Anvers,15756
+12002,Berlaar,10000.0,Province d’Anvers,11730
+12005,Bonheiden,10000.0,Province d’Anvers,15319
+12007,Bornem,10000.0,Province d’Anvers,21599
+12009,Duffel,10000.0,Province d’Anvers,17770
+12014,Heist-op-den-Berg,10000.0,Province d’Anvers,43594
+12021,Lierre,10000.0,Province d’Anvers,37309
+12025,Malines,10000.0,Province d’Anvers,86996
+12026,Nijlen,10000.0,Province d’Anvers,23259
+12029,Putte,10000.0,Province d’Anvers,18392
+12035,Sint-Katelijne-Waver,10000.0,Province d’Anvers,21391
+12040,Willebroek,10000.0,Province d’Anvers,27436
+12041,Puurs-Sint-Amands,10000.0,Province d’Anvers,26311
+13001,Arendonk,10000.0,Province d’Anvers,13297
+13002,Baerle-Duc,10000.0,Province d’Anvers,2997
+13003,Balen,10000.0,Province d’Anvers,23000
+13004,Beerse,10000.0,Province d’Anvers,18378
+13006,Dessel,10000.0,Province d’Anvers,9686
+13008,Geel,10000.0,Province d’Anvers,41146
+13010,Grobbendonk,10000.0,Province d’Anvers,11442
+13011,Herentals,10000.0,Province d’Anvers,28455
+13012,Herenthout,10000.0,Province d’Anvers,9287
+13013,Herselt,10000.0,Province d’Anvers,14731
+13014,Hoogstraten,10000.0,Province d’Anvers,21895
+13016,Hulshout,10000.0,Province d’Anvers,10560
+13017,Kasterlee,10000.0,Province d’Anvers,19140
+13019,Lille,10000.0,Province d’Anvers,16688
+13021,Meerhout,10000.0,Province d’Anvers,10258
+13023,Merksplas,10000.0,Province d’Anvers,8683
+13025,Mol,10000.0,Province d’Anvers,37600
+13029,Olen,10000.0,Province d’Anvers,12582
+13031,Oud-Turnhout,10000.0,Province d’Anvers,14402
+13035,Ravels,10000.0,Province d’Anvers,15293
+13036,Retie,10000.0,Province d’Anvers,11663
+13037,Rijkevorsel,10000.0,Province d’Anvers,12324
+13040,Turnhout,10000.0,Province d’Anvers,46372
+13044,Vorselaar,10000.0,Province d’Anvers,8019
+13046,Vosselaar,10000.0,Province d’Anvers,11556
+13049,Westerlo,10000.0,Province d’Anvers,25308
+13053,Laakdal,10000.0,Province d’Anvers,16464
+23002,Asse,20001.0,Province du Brabant flamand,34494
+23003,Beersel,20001.0,Province du Brabant flamand,26013
+23009,Biévène,20001.0,Province du Brabant flamand,2265
+23016,Dilbeek,20001.0,Province du Brabant flamand,44095
+23023,Gammerages,20001.0,Province du Brabant flamand,8806
+23024,Gooik,20001.0,Province du Brabant flamand,9392
+23025,Grimbergen,20001.0,Province du Brabant flamand,38539
+23027,Hal (Hal-Vilvorde),20001.0,Province du Brabant flamand,41284
+23032,Herne,20001.0,Province du Brabant flamand,6743
+23033,Hoeilaart,20001.0,Province du Brabant flamand,11433
+23038,Kampenhout,20001.0,Province du Brabant flamand,12350
+23039,Kapelle-op-den-Bos,20001.0,Province du Brabant flamand,9610
+23044,Liedekerke,20001.0,Province du Brabant flamand,13651
+23045,Londerzeel,20001.0,Province du Brabant flamand,19136
+23047,Machelen (Hal-Vilvorde),20001.0,Province du Brabant flamand,16108
+23050,Meise,20001.0,Province du Brabant flamand,19991
+23052,Merchtem,20001.0,Province du Brabant flamand,17507
+23060,Opwijk,20001.0,Province du Brabant flamand,14828
+23062,Overijse,20001.0,Province du Brabant flamand,25888
+23064,Pepingen,20001.0,Province du Brabant flamand,4507
+23077,Sint-Pieters-Leeuw,20001.0,Province du Brabant flamand,35486
+23081,Steenokkerzeel,20001.0,Province du Brabant flamand,12497
+23086,Ternat,20001.0,Province du Brabant flamand,16283
+23088,Vilvorde,20001.0,Province du Brabant flamand,46354
+23094,Zaventem,20001.0,Province du Brabant flamand,35916
+23096,Zemst,20001.0,Province du Brabant flamand,23306
+23097,Roosdaal,20001.0,Province du Brabant flamand,11735
+23098,Drogenbos,20001.0,Province du Brabant flamand,5770
+23099,Kraainem,20001.0,Province du Brabant flamand,13928
+23100,Linkebeek,20001.0,Province du Brabant flamand,4709
+23101,Rhode-Saint-Genèse,20001.0,Province du Brabant flamand,18628
+23102,Wemmel,20001.0,Province du Brabant flamand,17182
+23103,Wezembeek-Oppem,20001.0,Province du Brabant flamand,14488
+23104,Lennik,20001.0,Province du Brabant flamand,9312
+23105,Affligem,20001.0,Province du Brabant flamand,13466
+24001,Aarschot,20001.0,Province du Brabant flamand,30594
+24007,Begijnendijk,20001.0,Province du Brabant flamand,10390
+24008,Bekkevoort,20001.0,Province du Brabant flamand,6459
+24009,Bertem,20001.0,Province du Brabant flamand,10258
+24011,Bierbeek,20001.0,Province du Brabant flamand,10277
+24014,Boortmeerbeek,20001.0,Province du Brabant flamand,12968
+24016,Boutersem,20001.0,Province du Brabant flamand,8386
+24020,Diest,20001.0,Province du Brabant flamand,24516
+24028,Geetbets,20001.0,Province du Brabant flamand,6201
+24033,Haacht,20001.0,Province du Brabant flamand,15264
+24038,Herent,20001.0,Province du Brabant flamand,22430
+24041,Hoegaarden,20001.0,Province du Brabant flamand,6811
+24043,Holsbeek,20001.0,Province du Brabant flamand,10110
+24045,Huldenberg,20001.0,Province du Brabant flamand,10017
+24048,Keerbergen,20001.0,Province du Brabant flamand,13118
+24054,Kortenaken,20001.0,Province du Brabant flamand,7916
+24055,Kortenberg,20001.0,Province du Brabant flamand,20462
+24059,Landen,20001.0,Province du Brabant flamand,16149
+24062,Louvain,20001.0,Province du Brabant flamand,102236
+24066,Lubbeek,20001.0,Province du Brabant flamand,14776
+24086,Oud-Heverlee,20001.0,Province du Brabant flamand,11470
+24094,Rotselaar,20001.0,Province du Brabant flamand,17294
+24104,Tervuren,20001.0,Province du Brabant flamand,22852
+24107,Tirlemont,20001.0,Province du Brabant flamand,35973
+24109,Tremelo,20001.0,Province du Brabant flamand,15190
+24130,Léau,20001.0,Province du Brabant flamand,8591
+24133,Linter,20001.0,Province du Brabant flamand,7276
+24134,Montaigu-Zichem,20001.0,Province du Brabant flamand,23375
+24135,Tielt-Winge,20001.0,Province du Brabant flamand,11037
+24137,Glabbeek,20001.0,Province du Brabant flamand,5344
+25005,Beauvechain,20002.0,Province du Brabant wallon,7173
+25014,Braine-l’Alleud,20002.0,Province du Brabant wallon,40346
+25015,Braine-le-Château,20002.0,Province du Brabant wallon,10638
+25018,Chaumont-Gistoux,20002.0,Province du Brabant wallon,11685
+25023,Court-Saint-Etienne,20002.0,Province du Brabant wallon,10603
+25031,Genappe,20002.0,Province du Brabant wallon,15611
+25037,Grez-Doiceau,20002.0,Province du Brabant wallon,14005
+25043,Incourt,20002.0,Province du Brabant wallon,5614
+25044,Ittre,20002.0,Province du Brabant wallon,7067
+25048,Jodoigne,20002.0,Province du Brabant wallon,14558
+25050,La Hulpe,20002.0,Province du Brabant wallon,7499
+25068,Mont-Saint-Guibert,20002.0,Province du Brabant wallon,8081
+25072,Nivelles,20002.0,Province du Brabant wallon,29085
+25084,Perwez (Nivelles),20002.0,Province du Brabant wallon,9513
+25091,Rixensart,20002.0,Province du Brabant wallon,22856
+25105,Tubize,20002.0,Province du Brabant wallon,27774
+25107,Villers-la-Ville,20002.0,Province du Brabant wallon,10970
+25110,Waterloo,20002.0,Province du Brabant wallon,30356
+25112,Wavre,20002.0,Province du Brabant wallon,35111
+25117,Chastre,20002.0,Province du Brabant wallon,7727
+25118,Hélécine,20002.0,Province du Brabant wallon,3687
+25119,Lasne,20002.0,Province du Brabant wallon,14299
+25120,Orp-Jauche,20002.0,Province du Brabant wallon,9048
+25121,Ottignies-Louvain-la-Neuve,20002.0,Province du Brabant wallon,31363
+25122,Ramillies,20002.0,Province du Brabant wallon,6651
+25123,Rebecq,20002.0,Province du Brabant wallon,10977
+25124,Walhain,20002.0,Province du Brabant wallon,7485
+31003,Beernem,30000.0,Province de Flandre occidentale,15966
+31004,Blankenberge,30000.0,Province de Flandre occidentale,20408
+31005,Bruges,30000.0,Province de Flandre occidentale,118509
+31006,Damme,30000.0,Province de Flandre occidentale,11044
+31012,Jabbeke,30000.0,Province de Flandre occidentale,14222
+31022,Oostkamp,30000.0,Province de Flandre occidentale,23998
+31033,Torhout,30000.0,Province de Flandre occidentale,20517
+31040,Zedelgem,30000.0,Province de Flandre occidentale,23157
+31042,Zuienkerke,30000.0,Province de Flandre occidentale,2709
+31043,Knokke-Heist,30000.0,Province de Flandre occidentale,32875
+32003,Dixmude,30000.0,Province de Flandre occidentale,16926
+32006,Houthulst,30000.0,Province de Flandre occidentale,10267
+32010,Koekelare,30000.0,Province de Flandre occidentale,8769
+32011,Kortemark,30000.0,Province de Flandre occidentale,12803
+32030,Lo-Reninge,30000.0,Province de Flandre occidentale,3217
+33011,Ypres,30000.0,Province de Flandre occidentale,35039
+33016,Messines,30000.0,Province de Flandre occidentale,1062
+33021,Poperinge,30000.0,Province de Flandre occidentale,19782
+33029,Wervik,30000.0,Province de Flandre occidentale,19020
+33037,Zonnebeke,30000.0,Province de Flandre occidentale,12556
+33039,Heuvelland,30000.0,Province de Flandre occidentale,7991
+33040,Langemark-Poelkapelle,30000.0,Province de Flandre occidentale,7926
+33041,Vleteren,30000.0,Province de Flandre occidentale,3646
+34002,Anzegem,30000.0,Province de Flandre occidentale,15029
+34003,Avelgem,30000.0,Province de Flandre occidentale,10291
+34009,Deerlijk,30000.0,Province de Flandre occidentale,12356
+34013,Harelbeke,30000.0,Province de Flandre occidentale,29095
+34022,Courtrai,30000.0,Province de Flandre occidentale,77741
+34023,Kuurne,30000.0,Province de Flandre occidentale,13975
+34025,Lendelede,30000.0,Province de Flandre occidentale,5803
+34027,Menin,30000.0,Province de Flandre occidentale,33982
+34040,Waregem,30000.0,Province de Flandre occidentale,38948
+34041,Wevelgem,30000.0,Province de Flandre occidentale,31565
+34042,Zwevegem,30000.0,Province de Flandre occidentale,25140
+34043,Espierres-Helchin,30000.0,Province de Flandre occidentale,2056
+35002,Bredene,30000.0,Province de Flandre occidentale,18167
+35005,Gistel,30000.0,Province de Flandre occidentale,12106
+35006,Ichtegem,30000.0,Province de Flandre occidentale,14139
+35011,Middelkerke,30000.0,Province de Flandre occidentale,19723
+35013,Ostende,30000.0,Province de Flandre occidentale,71557
+35014,Oudenburg,30000.0,Province de Flandre occidentale,9717
+35029,De Haan,30000.0,Province de Flandre occidentale,12740
+36006,Hooglede,30000.0,Province de Flandre occidentale,10003
+36007,Ingelmunster,30000.0,Province de Flandre occidentale,11294
+36008,Izegem,30000.0,Province de Flandre occidentale,28845
+36010,Ledegem,30000.0,Province de Flandre occidentale,9738
+36011,Lichtervelde,30000.0,Province de Flandre occidentale,9018
+36012,Moorslede,30000.0,Province de Flandre occidentale,11386
+36015,Roulers,30000.0,Province de Flandre occidentale,64495
+36019,Staden,30000.0,Province de Flandre occidentale,11530
+37002,Dentergem,30000.0,Province de Flandre occidentale,8699
+37007,Meulebeke,30000.0,Province de Flandre occidentale,11010
+37010,Oostrozebeke,30000.0,Province de Flandre occidentale,7972
+37011,Pittem,30000.0,Province de Flandre occidentale,6793
+37012,Ruiselede,30000.0,Province de Flandre occidentale,5444
+37015,Tielt (Tielt),30000.0,Province de Flandre occidentale,20500
+37017,Wielsbeke,30000.0,Province de Flandre occidentale,9917
+37018,Wingene,30000.0,Province de Flandre occidentale,14852
+37020,Ardooie,30000.0,Province de Flandre occidentale,9195
+38002,Alveringem,30000.0,Province de Flandre occidentale,5025
+38008,La Panne,30000.0,Province de Flandre occidentale,11122
+38014,Koksijde,30000.0,Province de Flandre occidentale,21851
+38016,Nieuport,30000.0,Province de Flandre occidentale,11488
+38025,Furnes,30000.0,Province de Flandre occidentale,12295
+41002,Alost (Alost),40000.0,Province de Flandre orientale,88854
+41011,Denderleeuw,40000.0,Province de Flandre orientale,20772
+41018,Grammont,40000.0,Province de Flandre orientale,34328
+41024,Haaltert,40000.0,Province de Flandre orientale,18960
+41027,Herzele,40000.0,Province de Flandre orientale,18489
+41034,Lede,40000.0,Province de Flandre orientale,19054
+41048,Ninove,40000.0,Province de Flandre orientale,39626
+41063,Sint-Lievens-Houtem,40000.0,Province de Flandre orientale,10534
+41081,Zottegem,40000.0,Province de Flandre orientale,27341
+41082,Erpe-Mere,40000.0,Province de Flandre orientale,20606
+42003,Berlare,40000.0,Province de Flandre orientale,15274
+42004,Buggenhout,40000.0,Province de Flandre orientale,14748
+42006,Termonde,40000.0,Province de Flandre orientale,46325
+42008,Hamme (Termonde),40000.0,Province de Flandre orientale,25141
+42010,Laarne,40000.0,Province de Flandre orientale,12518
+42011,Lebbeke,40000.0,Province de Flandre orientale,19719
+42023,Waasmunster,40000.0,Province de Flandre orientale,11022
+42025,Wetteren,40000.0,Province de Flandre orientale,26444
+42026,Wichelen,40000.0,Province de Flandre orientale,11765
+42028,Zele,40000.0,Province de Flandre orientale,21349
+43002,Assenede,40000.0,Province de Flandre orientale,14449
+43005,Eeklo,40000.0,Province de Flandre orientale,21775
+43007,Kaprijke,40000.0,Province de Flandre orientale,6539
+43010,Maldegem,40000.0,Province de Flandre orientale,24409
+43014,Sint-Laureins,40000.0,Province de Flandre orientale,6940
+43018,Zelzate,40000.0,Province de Flandre orientale,13298
+44012,De Pinte,40000.0,Province de Flandre orientale,11046
+44013,Destelbergen,40000.0,Province de Flandre orientale,18856
+44019,Evergem,40000.0,Province de Flandre orientale,36087
+44020,Gavere,40000.0,Province de Flandre orientale,13205
+44021,Gand,40000.0,Province de Flandre orientale,265086
+44034,Lochristi,40000.0,Province de Flandre orientale,22897
+44040,Melle,40000.0,Province de Flandre orientale,11887
+44043,Merelbeke,40000.0,Province de Flandre orientale,24886
+44045,Moerbeke (Gand),40000.0,Province de Flandre orientale,6685
+44048,Nazareth,40000.0,Province de Flandre orientale,12040
+44052,Oosterzele,40000.0,Province de Flandre orientale,13840
+44064,Sint-Martens-Latem,40000.0,Province de Flandre orientale,8263
+44073,Wachtebeke,40000.0,Province de Flandre orientale,7847
+44081,Zulte,40000.0,Province de Flandre orientale,15943
+44083,Deinze,40000.0,Province de Flandre orientale,44315
+44084,Aalter,40000.0,Province de Flandre orientale,29340
+44085,Lievegem,40000.0,Province de Flandre orientale,26657
+45035,Audenarde,40000.0,Province de Flandre orientale,31866
+45041,Renaix,40000.0,Province de Flandre orientale,26702
+45059,Brakel,40000.0,Province de Flandre orientale,14850
+45060,Kluisbergen,40000.0,Province de Flandre orientale,6791
+45061,Wortegem-Petegem,40000.0,Province de Flandre orientale,6517
+45062,Horebeke,40000.0,Province de Flandre orientale,2023
+45063,Lierde,40000.0,Province de Flandre orientale,6689
+45064,Maarkedal,40000.0,Province de Flandre orientale,6386
+45065,Zwalin,40000.0,Province de Flandre orientale,8244
+45068,Kruisem,40000.0,Province de Flandre orientale,15876
+46003,Beveren (Saint-Nicolas),40000.0,Province de Flandre orientale,49531
+46013,Kruibeke,40000.0,Province de Flandre orientale,16980
+46014,Lokeren,40000.0,Province de Flandre orientale,42703
+46020,Sint-Gillis-Waas,40000.0,Province de Flandre orientale,19716
+46021,Saint-Nicolas (Saint-Nicolas),40000.0,Province de Flandre orientale,80167
+46024,Stekene,40000.0,Province de Flandre orientale,19030
+46025,Tamise,40000.0,Province de Flandre orientale,30635
+51004,Ath,50000.0,Province du Hainaut,29630
+51008,Beloeil,50000.0,Province du Hainaut,14203
+51009,Bernissart,50000.0,Province du Hainaut,11916
+51012,Brugelette,50000.0,Province du Hainaut,3776
+51014,Chièvres,50000.0,Province du Hainaut,7004
+51017,Ellezelles,50000.0,Province du Hainaut,6025
+51019,Flobecq,50000.0,Province du Hainaut,3453
+51065,Frasnes-lez-Anvaing,50000.0,Province du Hainaut,11974
+51067,Enghien,50000.0,Province du Hainaut,14233
+51068,Silly,50000.0,Province du Hainaut,8415
+51069,Lessines,50000.0,Province du Hainaut,18780
+52010,Chapelle-lez-Herlaimont,50000.0,Province du Hainaut,14672
+52011,Charleroi,50000.0,Province du Hainaut,202421
+52012,Châtelet,50000.0,Province du Hainaut,35527
+52015,Courcelles,50000.0,Province du Hainaut,31148
+52018,Farciennes,50000.0,Province du Hainaut,11233
+52021,Fleurus,50000.0,Province du Hainaut,22923
+52022,Fontaine-l’Evêque,50000.0,Province du Hainaut,17999
+52025,Gerpinnes,50000.0,Province du Hainaut,12771
+52048,Montigny-le-Tilleul,50000.0,Province du Hainaut,10125
+52055,Pont-à-Celles,50000.0,Province du Hainaut,17449
+52074,Aiseau-Presles,50000.0,Province du Hainaut,10900
+52075,Les Bons Villers,50000.0,Province du Hainaut,9510
+53014,Boussu,50000.0,Province du Hainaut,19913
+53020,Dour,50000.0,Province du Hainaut,16553
+53028,Frameries,50000.0,Province du Hainaut,21717
+53039,Hensies,50000.0,Province du Hainaut,6826
+53044,Jurbise,50000.0,Province du Hainaut,10802
+53046,Lens,50000.0,Province du Hainaut,4651
+53053,Mons,50000.0,Province du Hainaut,96545
+53065,Quaregnon,50000.0,Province du Hainaut,18878
+53068,Quiévrain,50000.0,Province du Hainaut,6826
+53070,Saint-Ghislain,50000.0,Province du Hainaut,23502
+53082,Colfontaine,50000.0,Province du Hainaut,20714
+53083,Honnelles,50000.0,Province du Hainaut,5178
+53084,Quévy,50000.0,Province du Hainaut,8087
+55004,Braine-le-Comte,50000.0,Province du Hainaut,22752
+55035,Le Roeulx,50000.0,Province du Hainaut,8738
+55040,Soignies,50000.0,Province du Hainaut,28523
+55050,Ecaussinnes,50000.0,Province du Hainaut,11338
+55085,Seneffe,50000.0,Province du Hainaut,11465
+55086,Manage,50000.0,Province du Hainaut,23825
+56001,Anderlues,50000.0,Province du Hainaut,12498
+56005,Beaumont,50000.0,Province du Hainaut,7173
+56016,Chimay,50000.0,Province du Hainaut,9769
+56022,Erquelinnes,50000.0,Province du Hainaut,10084
+56029,Froidchapelle,50000.0,Province du Hainaut,4049
+56044,Lobbes,50000.0,Province du Hainaut,5867
+56049,Merbes-le-Château,50000.0,Province du Hainaut,4224
+56051,Momignies,50000.0,Province du Hainaut,5284
+56078,Thuin,50000.0,Province du Hainaut,14907
+56086,Ham-sur-Heure-Nalinnes,50000.0,Province du Hainaut,13725
+56088,Sivry-Rance,50000.0,Province du Hainaut,4850
+57003,Antoing,50000.0,Province du Hainaut,7687
+57018,Celles (Tournai),50000.0,Province du Hainaut,5675
+57027,Estaimpuis,50000.0,Province du Hainaut,10654
+57062,Pecq,50000.0,Province du Hainaut,5847
+57064,Péruwelz,50000.0,Province du Hainaut,17141
+57072,Rumes,50000.0,Province du Hainaut,5286
+57081,Tournai,50000.0,Province du Hainaut,68518
+57093,Brunehaut,50000.0,Province du Hainaut,8167
+57094,Leuze-en-Hainaut,50000.0,Province du Hainaut,13998
+57095,Mont-de-l’Enclus,50000.0,Province du Hainaut,3806
+57096,Mouscron,50000.0,Province du Hainaut,59179
+57097,Comines-Warneton,50000.0,Province du Hainaut,18209
+58001,La Louvière,50000.0,Province du Hainaut,80992
+58002,Binche,50000.0,Province du Hainaut,33470
+58003,Estinnes,50000.0,Province du Hainaut,7940
+58004,Morlanwelz,50000.0,Province du Hainaut,19208
+61003,Amay,60000.0,Province de Liège,14448
+61010,Burdinne,60000.0,Province de Liège,3306
+61012,Clavier,60000.0,Province de Liège,4848
+61019,Ferrières,60000.0,Province de Liège,5077
+61024,Hamoir,60000.0,Province de Liège,3789
+61028,Héron,60000.0,Province de Liège,5560
+61031,Huy,60000.0,Province de Liège,21405
+61039,Marchin,60000.0,Province de Liège,5501
+61041,Modave,60000.0,Province de Liège,4231
+61043,Nandrin,60000.0,Province de Liège,5802
+61048,Ouffet,60000.0,Province de Liège,2806
+61063,Verlaine,60000.0,Province de Liège,4265
+61068,Villers-Le-Bouillet,60000.0,Province de Liège,6683
+61072,Wanze,60000.0,Province de Liège,13999
+61079,Anthisnes,60000.0,Province de Liège,4234
+61080,Engis,60000.0,Province de Liège,6269
+61081,Tinlot,60000.0,Province de Liège,2719
+62003,Ans,60000.0,Province de Liège,28625
+62006,Awans,60000.0,Province de Liège,9152
+62009,Aywaille,60000.0,Province de Liège,12667
+62011,Bassenge,60000.0,Province de Liège,8988
+62015,Beyne-Heusay,60000.0,Province de Liège,11948
+62022,Chaudfontaine,60000.0,Province de Liège,20556
+62026,Comblain-au-Pont,60000.0,Province de Liège,5321
+62027,Dalhem,60000.0,Province de Liège,7649
+62032,Esneux,60000.0,Province de Liège,12865
+62038,Fléron,60000.0,Province de Liège,16235
+62051,Herstal,60000.0,Province de Liège,40481
+62060,Juprelle,60000.0,Province de Liège,9639
+62063,Liège,60000.0,Province de Liège,195278
+62079,Oupeye,60000.0,Province de Liège,25571
+62093,Saint-Nicolas (Liège),60000.0,Province de Liège,24369
+62096,Seraing,60000.0,Province de Liège,63926
+62099,Soumagne,60000.0,Province de Liège,17287
+62100,Sprimont,60000.0,Province de Liège,15043
+62108,Visé,60000.0,Province de Liège,17973
+62118,Grâce-Hollogne,60000.0,Province de Liège,23037
+62119,Blegny,60000.0,Province de Liège,13395
+62120,Flémalle,60000.0,Province de Liège,26677
+62121,Neupré,60000.0,Province de Liège,10020
+62122,Trooz,60000.0,Province de Liège,7822
+63001,Amblève,60000.0,Province de Liège,5569
+63003,Aubel,60000.0,Province de Liège,4237
+63004,Baelen,60000.0,Province de Liège,4461
+63012,Bullange,60000.0,Province de Liège,5475
+63013,Butgenbach,60000.0,Province de Liège,5607
+63020,Dison,60000.0,Province de Liège,15207
+63023,Eupen,60000.0,Province de Liège,19874
+63035,Herve,60000.0,Province de Liège,17674
+63038,Jalhay,60000.0,Province de Liège,8700
+63040,La Calamine,60000.0,Province de Liège,11229
+63045,Lierneux,60000.0,Province de Liège,3579
+63046,Limbourg,60000.0,Province de Liège,5695
+63048,Lontzen,60000.0,Province de Liège,5947
+63049,Malmedy,60000.0,Province de Liège,12857
+63057,Olne,60000.0,Province de Liège,4068
+63058,Pepinster,60000.0,Province de Liège,9285
+63061,Raeren,60000.0,Province de Liège,10997
+63067,Saint-Vith,60000.0,Province de Liège,9966
+63072,Spa,60000.0,Province de Liège,10002
+63073,Stavelot,60000.0,Province de Liège,7202
+63075,Stoumont,60000.0,Province de Liège,3189
+63076,Theux,60000.0,Province de Liège,11957
+63079,Verviers,60000.0,Province de Liège,55102
+63080,Waimes,60000.0,Province de Liège,7414
+63084,Welkenraedt,60000.0,Province de Liège,10428
+63086,Trois-Ponts,60000.0,Province de Liège,2560
+63087,Burg-Reuland,60000.0,Province de Liège,3940
+63088,Plombières,60000.0,Province de Liège,10682
+63089,Thimister-Clermont,60000.0,Province de Liège,5608
+64008,Berloz,60000.0,Province de Liège,3280
+64015,Braives,60000.0,Province de Liège,6442
+64021,Crisnée,60000.0,Province de Liège,3517
+64023,Donceel,60000.0,Province de Liège,3120
+64025,Fexhe-le-Haut-Clocher,60000.0,Province de Liège,3327
+64029,Geer,60000.0,Province de Liège,3521
+64034,Hannut,60000.0,Province de Liège,16968
+64047,Lincent,60000.0,Province de Liège,3309
+64056,Oreye,60000.0,Province de Liège,4001
+64063,Remicourt,60000.0,Province de Liège,6053
+64065,Saint-Georges-sur-Meuse,60000.0,Province de Liège,7076
+64074,Waremme,60000.0,Province de Liège,15312
+64075,Wasseiges,60000.0,Province de Liège,3060
+64076,Faimes,60000.0,Province de Liège,4026
+71002,As,70000.0,Province du Limbourg,8246
+71004,Beringen,70000.0,Province du Limbourg,47217
+71011,Diepenbeek,70000.0,Province du Limbourg,19241
+71016,Genk,70000.0,Province du Limbourg,67009
+71017,Gingelom,70000.0,Province du Limbourg,8483
+71020,Halen,70000.0,Province du Limbourg,9475
+71022,Hasselt,70000.0,Province du Limbourg,79524
+71024,Herck-la-Ville,70000.0,Province du Limbourg,12756
+71034,Bourg-Léopold,70000.0,Province du Limbourg,16125
+71037,Lummen,70000.0,Province du Limbourg,15172
+71045,Nieuwerkerken (Hasselt),70000.0,Province du Limbourg,7027
+71053,Saint-Trond,70000.0,Province du Limbourg,40845
+71057,Tessenderlo,70000.0,Province du Limbourg,18884
+71066,Zonhoven,70000.0,Province du Limbourg,21473
+71067,Zutendaal,70000.0,Province du Limbourg,7307
+71069,Ham,70000.0,Province du Limbourg,11163
+71070,Heusden-Zolder,70000.0,Province du Limbourg,34243
+72003,Bocholt,70000.0,Province du Limbourg,13508
+72004,Bree,70000.0,Province du Limbourg,16324
+72018,Kinrooi,70000.0,Province du Limbourg,12258
+72020,Lommel,70000.0,Province du Limbourg,34396
+72021,Maaseik,70000.0,Province du Limbourg,25524
+72030,Peer,70000.0,Province du Limbourg,16449
+72037,Hamont-Achel,70000.0,Province du Limbourg,14375
+72038,Hechtel-Eksel,70000.0,Province du Limbourg,12760
+72039,Houthalen-Helchteren,70000.0,Province du Limbourg,30844
+72041,Dilsen-Stokkem,70000.0,Province du Limbourg,20995
+72042,Oudsbergen,70000.0,Province du Limbourg,23611
+72043,Pelt,70000.0,Province du Limbourg,33601
+73001,Alken,70000.0,Province du Limbourg,11757
+73006,Bilzen,70000.0,Province du Limbourg,32455
+73009,Looz,70000.0,Province du Limbourg,11272
+73022,Heers,70000.0,Province du Limbourg,7457
+73028,Herstappe,70000.0,Province du Limbourg,79
+73032,Hoeselt,70000.0,Province du Limbourg,9833
+73040,Kortessem,70000.0,Province du Limbourg,8595
+73042,Lanaken,70000.0,Province du Limbourg,26172
+73066,Riemst,70000.0,Province du Limbourg,16779
+73083,Tongres,70000.0,Province du Limbourg,31562
+73098,Wellen,70000.0,Province du Limbourg,7459
+73107,Maasmechelen,70000.0,Province du Limbourg,39409
+73109,Fourons,70000.0,Province du Limbourg,4287
+81001,Arlon,80000.0,Province du Luxembourg,30818
+81003,Attert,80000.0,Province du Luxembourg,5624
+81004,Aubange,80000.0,Province du Luxembourg,17417
+81013,Martelange,80000.0,Province du Luxembourg,1931
+81015,Messancy,80000.0,Province du Luxembourg,8339
+82003,Bastogne,80000.0,Province du Luxembourg,16618
+82005,Bertogne,80000.0,Province du Luxembourg,3743
+82009,Fauvillers,80000.0,Province du Luxembourg,2368
+82014,Houffalize,80000.0,Province du Luxembourg,5233
+82032,Vielsalm,80000.0,Province du Luxembourg,7891
+82036,Vaux-sur-Sûre,80000.0,Province du Luxembourg,6023
+82037,Gouvy,80000.0,Province du Luxembourg,5406
+82038,Sainte-Ode,80000.0,Province du Luxembourg,2655
+83012,Durbuy,80000.0,Province du Luxembourg,11467
+83013,Erezée,80000.0,Province du Luxembourg,3337
+83028,Hotton,80000.0,Province du Luxembourg,5707
+83031,La Roche-en-Ardenne,80000.0,Province du Luxembourg,4210
+83034,Marche-en-Famenne,80000.0,Province du Luxembourg,17758
+83040,Nassogne,80000.0,Province du Luxembourg,5632
+83044,Rendeux,80000.0,Province du Luxembourg,2693
+83049,Tenneville,80000.0,Province du Luxembourg,2884
+83055,Manhay,80000.0,Province du Luxembourg,3650
+84009,Bertrix,80000.0,Province du Luxembourg,8950
+84010,Bouillon,80000.0,Province du Luxembourg,5433
+84016,Daverdisse,80000.0,Province du Luxembourg,1408
+84029,Herbeumont,80000.0,Province du Luxembourg,1677
+84033,Léglise,80000.0,Province du Luxembourg,5705
+84035,Libin,80000.0,Province du Luxembourg,5307
+84043,Neufchâteau (Neufchâteau),80000.0,Province du Luxembourg,8041
+84050,Paliseul,80000.0,Province du Luxembourg,5469
+84059,Saint-Hubert,80000.0,Province du Luxembourg,5672
+84068,Tellin,80000.0,Province du Luxembourg,2528
+84075,Wellin,80000.0,Province du Luxembourg,3135
+84077,Libramont-Chevigny,80000.0,Province du Luxembourg,11598
+85007,Chiny,80000.0,Province du Luxembourg,5292
+85009,Etalle,80000.0,Province du Luxembourg,6052
+85011,Florenville,80000.0,Province du Luxembourg,5765
+85024,Meix-devant-Virton,80000.0,Province du Luxembourg,2823
+85026,Musson,80000.0,Province du Luxembourg,4650
+85034,Saint-Léger (Virton),80000.0,Province du Luxembourg,3735
+85039,Tintigny,80000.0,Province du Luxembourg,4371
+85045,Virton,80000.0,Province du Luxembourg,11404
+85046,Habay,80000.0,Province du Luxembourg,8586
+85047,Rouvroy,80000.0,Province du Luxembourg,2138
+91005,Anhée,90000.0,Province de Namur,7221
+91013,Beauraing,90000.0,Province de Namur,9327
+91015,Bièvre,90000.0,Province de Namur,3447
+91030,Ciney,90000.0,Province de Namur,17007
+91034,Dinant,90000.0,Province de Namur,13313
+91054,Gedinne,90000.0,Province de Namur,4672
+91059,Hamois,90000.0,Province de Namur,7386
+91064,Havelange,90000.0,Province de Namur,5306
+91072,Houyet,90000.0,Province de Namur,5067
+91103,Onhaye,90000.0,Province de Namur,3267
+91114,Rochefort,90000.0,Province de Namur,12610
+91120,Somme-Leuze,90000.0,Province de Namur,5975
+91141,Yvoir,90000.0,Province de Namur,9181
+91142,Hastière,90000.0,Province de Namur,6089
+91143,Vresse-sur-Semois,90000.0,Province de Namur,2515
+92003,Andenne,90000.0,Province de Namur,27863
+92006,Assesse,90000.0,Province de Namur,7274
+92035,Eghezée,90000.0,Province de Namur,16577
+92045,Floreffe,90000.0,Province de Namur,8077
+92048,Fosses-la-Ville,90000.0,Province de Namur,10401
+92054,Gesves,90000.0,Province de Namur,7334
+92087,Mettet,90000.0,Province de Namur,13488
+92094,Namur,90000.0,Province de Namur,112559
+92097,Ohey,90000.0,Province de Namur,5144
+92101,Profondeville,90000.0,Province de Namur,12197
+92114,Sombreffe,90000.0,Province de Namur,8404
+92137,Sambreville,90000.0,Province de Namur,28254
+92138,Fernelmont,90000.0,Province de Namur,8115
+92140,Jemeppe-sur-Sambre,90000.0,Province de Namur,19146
+92141,La Bruyère,90000.0,Province de Namur,9316
+92142,Gembloux,90000.0,Province de Namur,26330
+93010,Cerfontaine,90000.0,Province de Namur,5014
+93014,Couvin,90000.0,Province de Namur,13871
+93018,Doische,90000.0,Province de Namur,3010
+93022,Florennes,90000.0,Province de Namur,11320
+93056,Philippeville,90000.0,Province de Namur,9243
+93088,Walcourt,90000.0,Province de Namur,18429
+93090,Viroinval,90000.0,Province de Namur,5705
